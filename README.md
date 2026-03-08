@@ -140,9 +140,3 @@ Falls back gracefully to Apple Natural Language framework if Core ML model is un
 - **Multi-task** architecture — single shared encoder, 4 task heads
 - **Privacy-first**: zero network calls, all inference on-device
 - **Hardware-aware**: automatic model tier selection by device capability
-
-
-
-## License
-
-MIT — use freely for portfolio and interview purposes.
