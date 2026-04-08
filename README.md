@@ -2,7 +2,7 @@
 
 > **Adaptive On-Device Transformer NLP System using Swift, CoreML, and Apple Neural Engine**
 
-A rivacy-first NLP engine that runs entirely on-device — no server, no network, no data leaving the device. Built with DistilBERT → Core ML, SwiftUI, Apple Natural Language framework, and a hardware-aware adaptive inference pipeline.
+A privacy-first NLP engine that runs entirely on-device — no server, no network, no data leaving the device. Built with DistilBERT → Core ML, SwiftUI, Apple Natural Language framework, and a hardware-aware adaptive inference pipeline.
 
 ---
 
